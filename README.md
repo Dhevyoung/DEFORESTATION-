@@ -14,6 +14,8 @@ SQL ANALYSIS
 - JOIN clause
 - Subqueries
 
-  
+  ## ANALYSIS
+  Question 1.  What are the total number of countries involved in deforestation?
+  ![Question 1](https://github.com/Dhevyoung/DEFORESTATION-/blob/main/DEF%20QUESTION%201.png)
  
 
