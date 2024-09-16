@@ -15,7 +15,11 @@ SQL ANALYSIS
 - Subqueries
 
   ## ANALYSIS
-  Question 1.  What are the total number of countries involved in deforestation?
+  **_Question 1_.  What are the total number of countries involved in deforestation?**
   ![Question 1](https://github.com/Dhevyoung/DEFORESTATION-/blob/main/DEF%20QUESTION%201.png)
+
+ **_Question 2_. Show the income groups of countries having total area ranging from 75,000 to 150,000 square meter?**
+   ![Question 2](https://github.com/Dhevyoung/DEFORESTATION-/blob/main/DEF%20QUESTION%202.png)
  
+ **_Question 3_. Calculate average area in square miles for countries in the 'upper middle income region'. Compare the result with the rest of the income categories.**
 
