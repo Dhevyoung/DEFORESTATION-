@@ -23,4 +23,12 @@ SQL ANALYSIS
  
  **_Question 3_. Calculate average area in square miles for countries in the 'upper middle income region'. Compare the result with the rest of the income categories.**
    ![Question 3](https://github.com/Dhevyoung/DEFORESTATION-/blob/main/DEF%20QUESTION%203.png)
+
+  **_Question 4_.  Determine the total forest area in square km for countries in the 'high income' group. Compare result with the rest of the income categories.**
+     ![Question 4](https://github.com/Dhevyoung/DEFORESTATION-/blob/main/DEF%20QUESTION%204.png)
+
+**_Question 5_.   Show countries from each region(continent) having the highest total forest areas.**
+     ![Question 5](https://github.com/Dhevyoung/DEFORESTATION-/blob/main/DEF%20QUESTION%205.png)
+     A total of 58 countries are under the 'Europe & Central Asia' region.
+
  
