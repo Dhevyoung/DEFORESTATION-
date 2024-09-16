@@ -22,4 +22,5 @@ SQL ANALYSIS
    ![Question 2](https://github.com/Dhevyoung/DEFORESTATION-/blob/main/DEF%20QUESTION%202.png)
  
  **_Question 3_. Calculate average area in square miles for countries in the 'upper middle income region'. Compare the result with the rest of the income categories.**
-
+   ![Question 3](https://github.com/Dhevyoung/DEFORESTATION-/blob/main/DEF%20QUESTION%203.png)
+ 
